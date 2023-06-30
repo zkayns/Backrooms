@@ -1,13 +1,9 @@
-# Hades-Vault
-An Inescapable Minecraft Prison
+# The Backrooms
+A Backrooms themed Minecraft prison
 
-Developed by TheDeafCreeper and Obamaman  
-Decorated by SeenSven
+Developed by MiningBlob
 
 # Links
-[Main Promotional Video](https://www.youtube.com/watch?v=trj15fjXWDw) by SeenSven  
-[Original Guard Video](https://www.youtube.com/watch?v=9yQQRJj1QWQ) by TheDeafCreeper  
-[Updated Guard Video](https://www.youtube.com/watch?v=DSZtGFdgpPI) by TheDeafCreeper  
+[Showcase Video](https://www.youtube.com/watch?v=JSxd-9IGtO4) by MiningBlob
 
-[Deaf's Discord](discord.thedeafcreeper.com)  
-[SeenSven's Discord](https://discord.gg/ZqhuAPrTRw)
+[Blob's Discord](https://discord.gg/Nb48CWcfaK)
